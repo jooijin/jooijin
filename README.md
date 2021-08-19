@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BFB8DA&height=300&section=header&text=✨Ijin%Joo✨&fontSize=90&fontColor=FBFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BFB8DA&height=300&section=header&text=✨Ijin%Joo✨&fontSize=90&fontColor=FFFFFF)
 <br/>
 <br/>
 ### <div align="center">Skills</div>
