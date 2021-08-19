@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BFB8DA&height=300&section=header&text=✨Ijin%Joo✨&fontSize=90&fontColor=FFFFFF)
+<div align="center">![header](https://capsule-render.vercel.app/api?type=waving&color=BFB8DA&height=300&section=header&text=✨Ijin%Joo✨&fontSize=90&fontColor=FFFFFF)
 <br/>
 <br/>
 ### <div align="center">Skills</div>
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </div>
-
+</div>
 <!--
 **jooijin/jooijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
