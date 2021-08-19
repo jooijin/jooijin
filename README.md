@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=✨Ijin%Joo✨&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BFB8DA&height=300&section=header&text=✨Ijin%Joo✨&fontSize=90&fontColor=FFFFFF" />
 </div>
 <br/>
 <br/>
-### <div align="center">Skills</div>
+<div align="center"><h4><b>Skills</b></h4></div>
 <div align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
