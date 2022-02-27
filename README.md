@@ -1,15 +1,19 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=✨Ijin%Joo✨&fontSize=80&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Ijin%Joo&fontSize=77&fontColor=FFFFFF" />
 </div>
 <div align="center">
-  <h3>🔭 Currently working as a back-end developer</h3>
-  <h3>🌱 Currently learning Vue.js & Spring Boot</h3>
-  <h3>📫 How to reach me: jooijin1@gmail.com</h3>
-  <h3>😄 Pronouns: She/Her</h3>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
+</div>
+<div><h1><b>👾About Myself👾</b></h1></div>
+<div>
+  <li>🔭 Currently working as a back-end developer</li>
+  <li>🌱 Currently learning Vue.js & Spring Boot</li>
+  <li>📫 How to reach me: jooijin1@gmail.com</li>
+  <li>😄 Pronouns: She/Her</li>
 </div>
 <br/>
-<div align="center"><h1><b>🛠Tech Stack🛠</b></h1></div>
-<div align="center">
+<div><h1><b>🛠Tech Stack🛠</b></h1></div>
+<div>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
@@ -29,8 +33,8 @@
 </div>
 
 <br/>
-<div align="center"><h1><b>📊Stats📊</b></h1></div>
-<div align="center">
+<div><h1><b>📊Stats📊</b></h1></div>
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jooijin&show_icons=true&theme=great-gatsby" />
   </a>
