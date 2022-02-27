@@ -12,7 +12,6 @@
   <h3>😄 Pronouns: She/Her</h3>
 </div>
 <br/>
-<br/>
 <div align="center"><h1><b>🛠Tech Stack🛠</b></h1></div>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="45" height="45"/>&nbsp;
@@ -32,7 +31,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
 </div>
-<br/>
 <br/>
 <div align="center"><h1><b>📊Stats📊</b></h1></div>
 <div align="center">
