@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ijin%Joo&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&section=header&text=Ijin%Joo&fontSize=70&fontColor=FFFFFF" />
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
 </div>
 <div align="center"><h1><b>👾About Myself👾</b></h1></div>
 <div align="center">
-  <h4>🔭 Currently working as a Back-end developer</h4>
-  <h4>🌱 Currently learning Vue.js & Spring Boot</h4>
-  <h4>📫 How to reach me: jooijin1@gmail.com</h4>
-  <h4>😄 Pronouns: She/Her</h4>
+  <h3>🔭 Currently working as a Back-end developer</h3>
+  <h3>🌱 Currently learning Vue.js & Spring Boot</h3>
+  <h3>📫 How to reach me: jooijin1@gmail.com</h3>
+  <h3>😄 Pronouns: She/Her</h3>
 </div>
 <br/>
 <div align="center"><h1><b>🛠Tech Stack🛠</b></h1></div>
