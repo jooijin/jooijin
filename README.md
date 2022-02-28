@@ -18,9 +18,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45" height="45"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45" height="45"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45" height="45"/>&nbsp;
