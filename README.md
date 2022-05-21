@@ -3,7 +3,8 @@
 </div>
 <div align="center">
   <!-- img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/ -->
-  <img src="https://64.media.tumblr.com/90cf48fe958ebf34cc7d867cc3668ed1/tumblr_pne8k8255K1v6jtpi_540.gifv" width="400"/>
+  <img src="https://64.media.tumblr.com/c6c75524dfcd617d8aca1e70fdbe2fd7/tumblr_pnqip8Ikml1v6jtpi_500.gifv" width="400"/>
+  <!--img src="https://64.media.tumblr.com/90cf48fe958ebf34cc7d867cc3668ed1/tumblr_pne8k8255K1v6jtpi_540.gifv" width="400"/-->
 </div>
 <div align="center"><h1><b>👾About Myself👾</b></h1></div>
 <div align="center">
