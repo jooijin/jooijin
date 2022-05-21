@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ijin%Joo&fontSize=70&fontColor=FFFFFF" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="500"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
 </div>
 <div align="center"><h1><b>👾About Myself👾</b></h1></div>
 <div align="center">
