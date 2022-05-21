@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <!-- img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="500"/ -->
-  <img src="https://media.giphy.com/media/PCg4A7IvysIH6/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZTN7U4ipOXPaw/giphy.gif" width="500"/>
 </div>
 <div align="center"><h1><b>👾About Myself👾</b></h1></div>
 <div align="center">
