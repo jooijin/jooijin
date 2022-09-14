@@ -45,10 +45,10 @@
 <div align="center"><h1><b>📊Stats📊</b></h1></div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jooijin&show_icons=true&theme=nord" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jooijin&show_icons=true&theme=github_dark" height="175" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooijin&layout=compact&theme=nord" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooijin&layout=compact&theme=github_dark" height="175" />
   </a>
 </div>
 <div align="center">
