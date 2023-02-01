@@ -9,7 +9,7 @@
 </div>
 <div align="center"><h1><b>👾About Myself👾</b></h1></div>
 <div align="center">
-  <h3>🔭 Currently working as a SI developer</h3>
+  <h3>🔭 Currently working as a Web Developer</h3>
   <h3>🌱 Currently learning Vue.js & Spring Boot</h3>
   <h3>📫 How to reach me: jooijin1@gmail.com</h3>
   <h3>😄 Pronouns: She/Her</h3>
